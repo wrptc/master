@@ -1,0 +1,77 @@
+\section{Domains, Events and Patterns}
+Let's start with some basic definition. As we have introduced KNP tools in former Chapter, we can extract verbs and nouns in different cases from different sentences. We can define event as this,[1]
+\begin{definition}
+Given a sentence, we can construct an event $e$ for it, with the predicate and nouns of this sentence:
+\begin{displaymath} 
+e = p(l_1 = a_1, l_2 = a_2,...l_n = a_n)
+\end{displaymath}
+where $p$ is the predicate(verb) of a sentence, $a_j$ is a noun, we call it constant symbol, $l_j$ is a case. we can say that 
+$a_j = e.l_j$
+\end{definition}
+After that, we can define the domain,[1]
+\begin{definition}
+$D_i$ is a set of events. and $const(D_i)$ is a set of const(nouns) in $D_i$. For our data set, we have $D = \{D_1,D_2,...,D_n\}$, we assume that, 
+\begin{displaymath}
+const(D_i)\cap const(D_j) = \emptyset, \ i\ne j
+\end{displaymath}
+\end{definition}
+For the whole data set, we will also have,
+\begin{displaymath}
+const(\mathcal{D}) = \bigcup_{i =1}^{N}const(D)
+\end{displaymath}
+Those are our events and constant set. If we change our nouns t0 abstract variables, we can get abstruct event,[1]
+\begin{definition}
+Given an event $e'$, use abstract variables to represent the constants,
+\begin{displaymath}
+e = p(l_1 = X_1, l_2= X_2,...,l_n = X_n)
+\end{displaymath}
+where $X_j$ is abstruct variables for nouns.
+\end{definition}
+With the several abstruct events, we can build Pattern as a set of abstruct events.[1]
+\begin{definition}
+Given a pattern $P$ is the set of abstract events,
+\begin{displaymath}
+P = {...,e_j,... = p(l_1 = X_1, l_2 = X_2,...,l_n = X_n,...)}
+\end{displaymath}
+where in each $e$, $l_i \ne l_j$ if $i\ne j$
+\end{definition}
+We can easily get Domain $D$ from pattern $P$, if we set 
+\begin{displaymath}
+\theta = {X_1 = a_1, X_2 = a_2,...,X_n = a_n}
+\end{displaymath}
+We have a support relationship between pattern $P$ and domain $D$: $\preceq$
+\begin{definition}
+Given a pattern $P$, and a domain $D$, we have support relationship between them if they meet the requirement
+\begin{displaymath}
+D\preceq P \iff \exists \theta \forall e = p(cl)\in P \exists p(cl_c)\in D \ s.t. \ cl\theta \subseteq cl_c
+\end{displaymath}
+\end{definition}
+for example, domain $D={p(l_1 = a,l_2 = a,l_3 = b),\ q(l_1 = b)} $and pattern $P={p(l_1 = X,l_2=X)}$, meet the condition of $D\prec P$ with $\theta = {X = a}$.[1]
+\begin{definition}
+Given patterns, there are ordering relationship between them, for pattern $P_s$ and $P_g$:
+\begin{displaymath}
+P_s \preceq P_g \iff \exists \theta \ s.t. \ (e = p(cl_g)\in P_g \Rightarrow \exists p(cl_s)\in P_s\  with\ cl_g\theta \subseteq cl_s)
+\end{displaymath}
+\end{definition}
+if $P_s\preceq P_g$ and $P_g\preceq P_s$, we can say $P_s \sim P_g$.[1]
+\begin{definition}
+For $P_s$ and $P_g$, meet the condition of  $P_s\preceq P_g$,and $P_1 \ne P_2$, that means $P_s\prec P_g$ we defin more sepcific as,
+\begin{displaymath}
+P_s\prec P_g \iff P_s\ more\ specific\ than\ P_g 
+\end{displaymath}
+\end{definition}
+When we have a domain base $\mathcal{D}$ contains a lot of domains,[1]
+\begin{definition}
+Given a pattern $P$ and a domain base $\mathcal{D}$
+\begin{displaymath}
+[P] = \{D\in \mathcal{D}| D\preceq P\}
+\end{displaymath}
+the domains that supported by P[1].
+\end{definition}
+This is a weak support relationship, we also have a strong relationship, it uses the idea of KeyGraph, we will introduce it in next section.
+we say that $P$ is $\tau-supported$ by a case base $D$ if $|[P]|\geq N_\tau$, where $0<t<1$ is a minimum support parameter.we call it minsup condition.
+There is a fact that, the relationship meet the condition of monotonicity:
+for patterns P and Q,
+\begin{displaymath}
+P \preceq Q \Rightarrow [P]\subseteq [Q]
+\end{displaymath}

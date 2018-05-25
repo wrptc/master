@@ -1,0 +1,77 @@
+#line startwith '#': command by Professor Haraguchi.
+
+Files: knp.py, event.py, key.py, mfc.py
+
+0.  the enviroment:  UNIX,Linux
+    note: KNP can work on UNIX.  he is not sure that knp.py run on windows 10.
+          key.py work even on windows10.
+    Install of Python3: https://www.python.org/ or with command:
+		brew install python3(apple mac os)
+		apt install python3(ubuntu linux)
+	Install networkx package: http://networkx.github.io/ or with command:
+		pip3 install networkx
+
+1.  KNP system(knp.py)
+    1 install KNP system to your computer with the guide in http://nlp.ist.i.kyoto-u.ac.jp/?KNP
+#	KNP: インストール方法 の箇所だけで十分
+
+    2 put knp.py and all document text(txt form 複数個で例えば 001.txt) in same folder(例えば /knp).
+#	note:  001.txt は leagal DB から download．いくつかの余分な箇所はマニュアルで除去
+# 	note   要旨は一つで複数のポイントからなる．矛盾するポイントがあるかは？
+
+    3 run python3 knp.py /*the command python3 knp.py at the same directory those files are stored*/
+                    and get all knp result (eg simple 001.txt) in output file /*at the same directory*/
+
+           the output: # standard KNP result, not supposing additional operation
+
+#    attach the sample computatin carried out on DOS windows
+
+2.  KeyGraph   "program\other\key.py"
+                         //self contained. NOT accessing to any other code or systems.
+                         // graphic package must be installed beforehand
+
+	1 Put knp results (simple***.txt, we rename them to ***.txt) and key.py in same folder(例えば /other).
+
+	2 run python3 key.py // at the same holder, /other in that case.
+	/*
+    execute python3 key.py
+    note: a non-standard public package for graphic tools, networkx, is installed beforehand
+                with  no particular reason for choosing that
+	*/
+	
+	3 input parameter for top-n. and we will get all top-n key words in output file:
+    when and how do we set the parameter N? ⇒ program interactively makes some inquiry about N.
+    Then the keyword.txt will be made //in the same directory
+
+	4 a line in "program\other\keyword.txt"
+		: 水002/0.13273125342090863// noun document ID followed by key value
+
+
+3.  Maximal closure:
+
+	★ event.py
+	1 put knp result(simple***.txt), keyword.txt and
+        other py files(プログラムevent.py mfc.py) in same folder(/other).
+
+	2 run python3 event.py first and get event information in output file:
+    events.txt
+例：
+原文： その余の原告らの請求をいずれも棄却する。
+動詞「棄却」を含む001.txt 中の行
++ -1D <用言:動><レベル:C><ID:（文末）><格解析結果:/*棄却/ききゃく:動1*/:ガ/N/いずれ/6/0/1;ヲ/C/請求/5/0/1;ニ/U/-/-/-/-;ト/U/-/-/-/-;デ/U/-/-/-/-;カラ/U/-/-/-/-;ヨリ/U/-/-/-/-;マデ/U/-/-/-/-;時間/U/-/-/-/-;外の関係/U/-/-/-/-;ノ/U/-/-/-/-;トスル/U/-/-/-/-;修飾/U/-/-/-/-;ニツク/U/-/-/-/-;ニオク/U/-/-/-/-;ニタイスル/U/-/-/-/-;ニヨル/U/-/-/-/-;ニツヅク/U/-/-/-/-;ヲノゾク/U/-/-/-/-;ニモトヅク/U/-/-/-/->
+棄却 ききゃく 棄却 名詞 6 サ変名詞 2 * 0 * 0 "代表表記:棄却/ききゃく カテゴリ:抽象物 ドメイン:政治"
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 "代表表記:する/する 付属動詞候補（基本） 自他動詞:自:成る/なる"
+#上記の行から抽出されたイベントは何か？
+棄却（ガ=いずれ，ヲ＝請求，．．．）： !!!KNP fails in this case!!!
+# At this moment, KNP and event extraction program does not consider such a bad analysis result.
+# It is possible to exclude such a wrong event when it does not involve any important key words.
+# It is also possible to disregard such ones when noun in them do not appear in MFC.
+# Thus, the present version make "implicit" removal of such incorrect event description.
+#  キーワードを含むイベントのみが，閉包計算の対象．
+#  その制限のもとに，wrong event は現れてこない．
+
+3 run python3 mfc.py at the same directory program\other
+
+4 input parameter of tau meaning how many domains we need to support the patterns
+
+5 get all closures in output file:   "program\other\result.txt"

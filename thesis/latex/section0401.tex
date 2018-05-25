@@ -1,0 +1,40 @@
+\chapter{Experiment}
+\section{Preprocessing}
+We use four different kinds of data in our experiment:\\
+Experiment 1: prove the feasibility of KeyGraph Algorithm.\\
+Experiment 2: Using the whole set of document to experiment and assess the runtime of proposed algorithm.\\
+Experiment 3: a set of two short Japanese stories, and set $\tau = 1$.\\
+Experiment 4-1: a set of four similar precedent documents, and set $\tau = 1$.\\
+Experiment 4-2: a set of four different precedent documents, and set $\tau = 1/2$ .\\
+Experiment 4-3: a set of three precedent documents include similar and different ones, and set $\tau = 2/3$.\\
+First, we need to transform the code of text to utf-8, we use Python language:\\
+\begin{enumerate}[*]
+\item import codecs
+\item infile = codecs.open(`input',`r',`Shift JIS')
+\item outfile = codecs.open(`output',`w',`utf-8')
+\end{enumerate}
+Then the files can be accessed by KNP system, we also need to piece the document to sentences to get a correct result from KNP system:\\
+\begin{enumerate}[*]
+\item sentences = document.split(`\begin{CJK}{UTF8}{ipxm}。\end{CJK}')
+\end{enumerate}
+Here, we use `\begin{CJK}{UTF8}{ipxm}。\end{CJK}' as a symbol of the end of a sentence. Because of precedents contains only declarative sentence, this simple way can solve the problem very fast and easily.
+Then we can use KNP system to analysis our sentences with the command:\\
+\begin{enumerate}[*]
+\item `sentence' $|$ juman $|$ knp -simple
+\end{enumerate}
+
+For each document, we have a file to save KNP result.\\
+Here are examples from the KNP result:\\
+\begin{enumerate}[*]
+\item \begin{CJK}{UTF8}{ipxm}
+`目録 もくろく 目録 名詞 6 普通名詞 1 * 0 * 0 "代表表記:目録/もくろく カテゴリ:抽象物" '
+\end{CJK}
+\end{enumerate}
+from lines of this kind, we can extract all nouns and use them to extract keyword using KeyGraph Algorithm.\\
+\begin{enumerate}[*]
+\item \begin{CJK}{UTF8}{ipxm}
+`<格解析結果:操業/そうぎょう:動7:ガ/N/被告/0/0/1;...'
+\end{CJK}
+\end{enumerate}
+from lines of this kind, we can extract the events.\\
+With the keywords and all the events, we can start our experiment.\\

@@ -1,0 +1,10 @@
+\section{Importance of Nouns}
+The numbers of nouns appear in one document, the amount may be huge depending on the length of the text. From the point of common sense, we have an idea of that, not all nouns are equally significants among the whole text. As we know, for example, `scissors' is much more specific than `tool', In some cases, `scissors' can express a clear and certain meaning. So we can say `scissors' is more important than `tool' in this kind of situation. \\
+So, we use KeyGraph algorithm we have introduced before to help us find the most important noun from a document text. Frequency is also very important in determining the importance of nouns.\\
+According to the idea of the author, the importance of nouns becomes very different in the different specific document. We can't regard the nouns as the same in a different situation. We apply KeyGraph algorithm to strengthen our support relationship,\\
+$D$ supports $P$ if $D \preceq P$ by some $\theta$,and
+\begin{displaymath}
+\max_{x\in Var(P)} keyscore_D(X\theta) \geq \kappa
+\end{displaymath}
+where $\kappa$ in an importance lower bound parameter.\\
+That means there exists at least one keyword in the domain $mathcal{D}$, that support the Pattern $P$.

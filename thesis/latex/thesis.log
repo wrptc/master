@@ -1,0 +1,2146 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.7.26)  2 AUG 2017 15:00
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**thesis.tex
+(./thesis.tex
+LaTeX2e <2016/03/31>
+Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/05/09 v1.0r Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/01/02 v1.10 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 96.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count88
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/algorithmicx/algorithmicx.sty
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count89
+\c@ALG@rem=\count90
+\c@ALG@nested=\count91
+\ALG@tlm=\skip43
+\ALG@thistlm=\skip44
+\c@ALG@Lnr=\count92
+\c@ALG@blocknr=\count93
+\c@ALG@storecount=\count94
+\c@ALG@tmpcounter=\count95
+\ALG@tmplength=\skip45
+) (/usr/local/texlive/2016/texmf-dist/tex/latex/bxcjkjatype/bxcjkjatype.sty
+Package: bxcjkjatype 2013/10/18 v0.2c
+Package bxcjkjatype Info: Driver auto-detected: pdftex on input line 120.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/cjk/texinput/CJK.sty
+Package: CJK 2015/04/18 4.8.4
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/cjk/texinput/mule/MULEenc.sty
+Package: MULEenc 2015/04/18 4.8.4
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/cjk/texinput/CJK.enc
+File: CJK.enc 2015/04/18 4.8.4
+)
+LaTeX Info: Redefining \selectfont on input line 755.
+\CJK@indent=\box26
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/cjk/texinput/CJKutf8.sty
+Package: CJKutf8 2015/04/18 4.8.4
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/utf8.def
+File: utf8.def 2016/02/28 v1.1s UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/t1enc.dfu
+File: t1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0100 (decimal 256)
+   defining Unicode char U+0101 (decimal 257)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+0108 (decimal 264)
+   defining Unicode char U+0109 (decimal 265)
+   defining Unicode char U+010A (decimal 266)
+   defining Unicode char U+010B (decimal 267)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0112 (decimal 274)
+   defining Unicode char U+0113 (decimal 275)
+   defining Unicode char U+0114 (decimal 276)
+   defining Unicode char U+0115 (decimal 277)
+   defining Unicode char U+0116 (decimal 278)
+   defining Unicode char U+0117 (decimal 279)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011C (decimal 284)
+   defining Unicode char U+011D (decimal 285)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0120 (decimal 288)
+   defining Unicode char U+0121 (decimal 289)
+   defining Unicode char U+0122 (decimal 290)
+   defining Unicode char U+0123 (decimal 291)
+   defining Unicode char U+0124 (decimal 292)
+   defining Unicode char U+0125 (decimal 293)
+   defining Unicode char U+0128 (decimal 296)
+   defining Unicode char U+0129 (decimal 297)
+   defining Unicode char U+012A (decimal 298)
+   defining Unicode char U+012B (decimal 299)
+   defining Unicode char U+012C (decimal 300)
+   defining Unicode char U+012D (decimal 301)
+   defining Unicode char U+012E (decimal 302)
+   defining Unicode char U+012F (decimal 303)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0134 (decimal 308)
+   defining Unicode char U+0135 (decimal 309)
+   defining Unicode char U+0136 (decimal 310)
+   defining Unicode char U+0137 (decimal 311)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013B (decimal 315)
+   defining Unicode char U+013C (decimal 316)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0145 (decimal 325)
+   defining Unicode char U+0146 (decimal 326)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+014C (decimal 332)
+   defining Unicode char U+014D (decimal 333)
+   defining Unicode char U+014E (decimal 334)
+   defining Unicode char U+014F (decimal 335)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0156 (decimal 342)
+   defining Unicode char U+0157 (decimal 343)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015C (decimal 348)
+   defining Unicode char U+015D (decimal 349)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+0168 (decimal 360)
+   defining Unicode char U+0169 (decimal 361)
+   defining Unicode char U+016A (decimal 362)
+   defining Unicode char U+016B (decimal 363)
+   defining Unicode char U+016C (decimal 364)
+   defining Unicode char U+016D (decimal 365)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0172 (decimal 370)
+   defining Unicode char U+0173 (decimal 371)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+01CD (decimal 461)
+   defining Unicode char U+01CE (decimal 462)
+   defining Unicode char U+01CF (decimal 463)
+   defining Unicode char U+01D0 (decimal 464)
+   defining Unicode char U+01D1 (decimal 465)
+   defining Unicode char U+01D2 (decimal 466)
+   defining Unicode char U+01D3 (decimal 467)
+   defining Unicode char U+01D4 (decimal 468)
+   defining Unicode char U+01E2 (decimal 482)
+   defining Unicode char U+01E3 (decimal 483)
+   defining Unicode char U+01E6 (decimal 486)
+   defining Unicode char U+01E7 (decimal 487)
+   defining Unicode char U+01E8 (decimal 488)
+   defining Unicode char U+01E9 (decimal 489)
+   defining Unicode char U+01EA (decimal 490)
+   defining Unicode char U+01EB (decimal 491)
+   defining Unicode char U+01F0 (decimal 496)
+   defining Unicode char U+01F4 (decimal 500)
+   defining Unicode char U+01F5 (decimal 501)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+1E02 (decimal 7682)
+   defining Unicode char U+1E03 (decimal 7683)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2010 (decimal 8208)
+   defining Unicode char U+2011 (decimal 8209)
+   defining Unicode char U+2012 (decimal 8210)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2015 (decimal 8213)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/ot1enc.dfu
+File: ot1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/omsenc.dfu
+File: omsenc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+Now handling font encoding C00 ...
+... no UTF-8 mapping file for font encoding C00
+Now handling font encoding C05 ...
+... no UTF-8 mapping file for font encoding C05
+Now handling font encoding C09 ...
+... no UTF-8 mapping file for font encoding C09
+Now handling font encoding C10 ...
+... no UTF-8 mapping file for font encoding C10
+Now handling font encoding C20 ...
+... no UTF-8 mapping file for font encoding C20
+Now handling font encoding C19 ...
+... no UTF-8 mapping file for font encoding C19
+Now handling font encoding C40 ...
+... no UTF-8 mapping file for font encoding C40
+Now handling font encoding C42 ...
+... no UTF-8 mapping file for font encoding C42
+Now handling font encoding C43 ...
+... no UTF-8 mapping file for font encoding C43
+Now handling font encoding C50 ...
+... no UTF-8 mapping file for font encoding C50
+Now handling font encoding C52 ...
+... no UTF-8 mapping file for font encoding C52
+Now handling font encoding C49 ...
+... no UTF-8 mapping file for font encoding C49
+Now handling font encoding C60 ...
+... no UTF-8 mapping file for font encoding C60
+Now handling font encoding C61 ...
+... no UTF-8 mapping file for font encoding C61
+Now handling font encoding C63 ...
+... no UTF-8 mapping file for font encoding C63
+Now handling font encoding C64 ...
+... no UTF-8 mapping file for font encoding C64
+Now handling font encoding C65 ...
+... no UTF-8 mapping file for font encoding C65
+Now handling font encoding C70 ...
+... no UTF-8 mapping file for font encoding C70
+Now handling font encoding C31 ...
+... no UTF-8 mapping file for font encoding C31
+Now handling font encoding C32 ...
+... no UTF-8 mapping file for font encoding C32
+Now handling font encoding C33 ...
+... no UTF-8 mapping file for font encoding C33
+Now handling font encoding C34 ...
+... no UTF-8 mapping file for font encoding C34
+Now handling font encoding C35 ...
+... no UTF-8 mapping file for font encoding C35
+Now handling font encoding C36 ...
+... no UTF-8 mapping file for font encoding C36
+Now handling font encoding C37 ...
+... no UTF-8 mapping file for font encoding C37
+Now handling font encoding C80 ...
+... no UTF-8 mapping file for font encoding C80
+Now handling font encoding C81 ...
+... no UTF-8 mapping file for font encoding C81
+Now handling font encoding C01 ...
+... no UTF-8 mapping file for font encoding C01
+Now handling font encoding C11 ...
+... no UTF-8 mapping file for font encoding C11
+Now handling font encoding C21 ...
+... no UTF-8 mapping file for font encoding C21
+Now handling font encoding C41 ...
+... no UTF-8 mapping file for font encoding C41
+Now handling font encoding C62 ...
+... no UTF-8 mapping file for font encoding C62
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/cjk/texinput/CJKspace.sty
+Package: CJKspace 2015/04/18 3.8.0
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/cjkpunct/CJKpunct.sty
+Package: CJKpunct 2016/05/14 4.8.4
+\CJKpunct@cnta=\count96
+\CJKpunct@cntb=\count97
+\CJKpunct@cntc=\count98
+\CJKpunct@cntd=\count99
+\CJKpunct@cnte=\count100
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2026 (decimal 8230)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/cjkpunct/CJKpunct.spa))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count101
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/03/10 v2.15b AMS math features
+\@mathmargin=\skip46
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen105
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen106
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count102
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count103
+\leftroot@=\count104
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count105
+\DOTSCASE@=\count106
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen107
+LaTeX Font Info:    Redeclaring font encoding OML on input line 634.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
+\macc@depth=\count107
+\c@MaxMatrixCols=\count108
+\dotsspace@=\muskip10
+\c@parentequation=\count109
+\dspbrk@lvl=\count110
+\tag@help=\toks18
+\row@=\count111
+\column@=\count112
+\maxfields@=\count113
+\andhelp@=\toks19
+\eqnshift@=\dimen108
+\alignsep@=\dimen109
+\tagshift@=\dimen110
+\tagwidth@=\dimen111
+\totwidth@=\dimen112
+\lineht@=\dimen113
+\@envbody=\toks20
+\multlinegap=\skip47
+\multlinetaggap=\skip48
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2739.
+LaTeX Info: Redefining \] on input line 2740.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2015/03/04 v2.20.2
+\thm@style=\toks22
+\thm@bodyfont=\toks23
+\thm@headfont=\toks24
+\thm@notefont=\toks25
+\thm@headpunct=\toks26
+\thm@preskip=\skip49
+\thm@postskip=\skip50
+\thm@headsep=\skip51
+\dth@everypar=\toks27
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks28
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
+x
+\pgfutil@everybye=\toks29
+\pgfutil@tempdima=\dimen114
+\pgfutil@tempdimb=\dimen115
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
+sts.tex))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box29
+(/usr/local/texlive/2016/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
+))
+Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks30
+\pgfkeys@temptoks=\toks31
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.c
+ode.tex
+\pgfkeys@tmptoks=\toks32
+))
+\pgf@x=\dimen116
+\pgf@y=\dimen117
+\pgf@xa=\dimen118
+\pgf@ya=\dimen119
+\pgf@xb=\dimen120
+\pgf@yb=\dimen121
+\pgf@xc=\dimen122
+\pgf@yc=\dimen123
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count114
+\c@pgf@countb=\count115
+\c@pgf@countc=\count116
+\c@pgf@countd=\count117
+\t@pgf@toka=\toks33
+\t@pgf@tokb=\toks34
+\t@pgf@tokc=\toks35
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.d
+ef
+File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-p
+df.def
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+)))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
+code.tex
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count118
+\pgfsyssoftpath@bigbuffer@items=\count119
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
+code.tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+)) (/usr/local/texlive/2016/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen124
+\pgfmath@count=\count120
+\pgfmath@box=\box30
+\pgfmath@toks=\toks36
+\pgfmath@stack@operand=\toks37
+\pgfmath@stack@operation=\toks38
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
+tex
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic
+.code.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigo
+nometric.code.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rando
+m.code.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compa
+rison.code.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.
+code.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round
+.code.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
+code.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
+erarithmetics.code.tex)))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count121
+))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
+de.tex
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen125
+\pgf@picmaxx=\dimen126
+\pgf@picminy=\dimen127
+\pgf@picmaxy=\dimen128
+\pgf@pathminx=\dimen129
+\pgf@pathmaxx=\dimen130
+\pgf@pathminy=\dimen131
+\pgf@pathmaxy=\dimen132
+\pgf@xx=\dimen133
+\pgf@xy=\dimen134
+\pgf@yx=\dimen135
+\pgf@yy=\dimen136
+\pgf@zx=\dimen137
+\pgf@zy=\dimen138
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
+ruct.code.tex
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen139
+\pgf@path@lasty=\dimen140
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
+.code.tex
+File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
+\pgf@shorten@end@additional=\dimen141
+\pgf@shorten@start@additional=\dimen142
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
+de.tex
+File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
+\pgfpic=\box31
+\pgf@hbox=\box32
+\pgf@layerbox@main=\box33
+\pgf@picture@serial@count=\count122
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
+ate.code.tex
+File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
+\pgflinewidth=\dimen143
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
+ations.code.tex
+File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
+\pgf@pt@x=\dimen144
+\pgf@pt@y=\dimen145
+\pgf@pt@temp=\dimen146
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
+e.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.c
+ode.tex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathproce
+ssing.code.tex
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
+de.tex
+File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
+\pgfarrowsep=\dimen147
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
+e.tex
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen148
+\pgf@sys@shading@range@num=\count123
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
+e.tex
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.
+code.tex
+File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
+\pgfexternal@startupbox=\box34
+))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.co
+de.tex
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretranspare
+ncy.code.tex
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.
+code.tex
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+)))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
+e.tex
+File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
+\pgfnodeparttextbox=\box35
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
+tex
+File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-0-65.sty
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen149
+\pgf@nodesepend=\dimen150
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-1-18.sty
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)
+) (/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen151
+\pgffor@skip=\dimen152
+\pgffor@stack=\toks39
+\pgffor@toks=\toks40
+))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.cod
+e.tex
+Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
+dlers.code.tex
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
+\pgf@plot@mark@count=\count124
+\pgfplotmarksize=\dimen153
+)
+\tikz@lastx=\dimen154
+\tikz@lasty=\dimen155
+\tikz@lastxsaved=\dimen156
+\tikz@lastysaved=\dimen157
+\tikzleveldistance=\dimen158
+\tikzsiblingdistance=\dimen159
+\tikz@figbox=\box36
+\tikz@figbox@bg=\box37
+\tikz@tempbox=\box38
+\tikz@tempbox@bg=\box39
+\tikztreelevel=\count125
+\tikznumberofchildren=\count126
+\tikznumberofcurrentchild=\count127
+\tikz@fig@count=\count128
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
+e.tex
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count129
+\pgfmatrixcurrentcolumn=\count130
+\pgf@matrix@numberofcolumns=\count131
+)
+\tikz@expandcount=\count132
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
+)))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
+Package: algorithm2e 2013/01/06 v5.00 algorithms environments
+\c@AlgoLine=\count133
+\algocf@hangindent=\skip52
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/relsize/relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+)
+********************************************************
+Package `algorithm2e' Release 5.1 -- october 19 2015 --
+- algorithm2e-announce@lirmm.fr mailing list for announcement about releases
+- algorithm2e-discussion@lirmm.fr mailing list for discussion about package
+subscribe by emailing sympa@lirmm.fr with 'subscribe <list> <firstname name>'
+- Author: Christophe Fiorio (christophe.fiorio@umontpellier.fr)
+********************************************************
+\skiptotal=\skip53
+\skiplinenumber=\skip54
+\skiprule=\skip55
+\skiphlne=\skip56
+\skiptext=\skip57
+\skiplength=\skip58
+\algomargin=\skip59
+\skipalgocfslide=\skip60
+\algowidth=\dimen160
+\inoutsize=\dimen161
+\inoutindent=\dimen162
+\interspacetitleruled=\dimen163
+\interspacealgoruled=\dimen164
+\interspacetitleboxruled=\dimen165
+\algocf@ruledwidth=\skip61
+\algocf@inoutbox=\box40
+\algocf@inputbox=\box41
+\AlCapSkip=\skip62
+\AlCapHSkip=\skip63
+\algoskipindent=\skip64
+\algocf@nlbox=\box42
+\algocf@hangingbox=\box43
+\algocf@untilbox=\box44
+\algocf@skipuntil=\skip65
+\algocf@capbox=\box45
+\algoheightruledefault=\skip66
+\algoheightrule=\skip67
+\algotitleheightruledefault=\skip68
+\algotitleheightrule=\skip69
+\c@algocfline=\count134
+\c@algocfproc=\count135
+\c@algocf=\count136
+\algocf@algoframe=\box46
+\algocf@algobox=\box47
+) (/usr/local/texlive/2016/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2016/04/19 v0.5f Insert pages of external PDF documents (AM)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count137
+\calc@Bcount=\count138
+\calc@Adimen=\dimen166
+\calc@Bdimen=\dimen167
+\calc@Askip=\skip70
+\calc@Bskip=\skip71
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count139
+\calc@Cskip=\skip72
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2016/05/16 v1.17 At begin shipout hook (HO)
+))
+\AM@pagewidth=\dimen168
+\AM@pageheight=\dimen169
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2016/04/19 v0.5f Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box48
+\AM@global@opts=\toks41
+\AM@toc@title=\toks42
+\c@AM@survey=\count140
+\AM@templatesizebox=\box49
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/cyrillic/t2aenc.def
+File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
+Now handling font encoding T2A ...
+... processing UTF-8 mapping file for font encoding T2A
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/t2aenc.dfu
+File: t2aenc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0400 (decimal 1024)
+   defining Unicode char U+0401 (decimal 1025)
+   defining Unicode char U+0402 (decimal 1026)
+   defining Unicode char U+0403 (decimal 1027)
+   defining Unicode char U+0404 (decimal 1028)
+   defining Unicode char U+0405 (decimal 1029)
+   defining Unicode char U+0406 (decimal 1030)
+   defining Unicode char U+0407 (decimal 1031)
+   defining Unicode char U+0408 (decimal 1032)
+   defining Unicode char U+0409 (decimal 1033)
+   defining Unicode char U+040A (decimal 1034)
+   defining Unicode char U+040B (decimal 1035)
+   defining Unicode char U+040C (decimal 1036)
+   defining Unicode char U+040D (decimal 1037)
+   defining Unicode char U+040E (decimal 1038)
+   defining Unicode char U+040F (decimal 1039)
+   defining Unicode char U+0410 (decimal 1040)
+   defining Unicode char U+0411 (decimal 1041)
+   defining Unicode char U+0412 (decimal 1042)
+   defining Unicode char U+0413 (decimal 1043)
+   defining Unicode char U+0414 (decimal 1044)
+   defining Unicode char U+0415 (decimal 1045)
+   defining Unicode char U+0416 (decimal 1046)
+   defining Unicode char U+0417 (decimal 1047)
+   defining Unicode char U+0418 (decimal 1048)
+   defining Unicode char U+0419 (decimal 1049)
+   defining Unicode char U+041A (decimal 1050)
+   defining Unicode char U+041B (decimal 1051)
+   defining Unicode char U+041C (decimal 1052)
+   defining Unicode char U+041D (decimal 1053)
+   defining Unicode char U+041E (decimal 1054)
+   defining Unicode char U+041F (decimal 1055)
+   defining Unicode char U+0420 (decimal 1056)
+   defining Unicode char U+0421 (decimal 1057)
+   defining Unicode char U+0422 (decimal 1058)
+   defining Unicode char U+0423 (decimal 1059)
+   defining Unicode char U+0424 (decimal 1060)
+   defining Unicode char U+0425 (decimal 1061)
+   defining Unicode char U+0426 (decimal 1062)
+   defining Unicode char U+0427 (decimal 1063)
+   defining Unicode char U+0428 (decimal 1064)
+   defining Unicode char U+0429 (decimal 1065)
+   defining Unicode char U+042A (decimal 1066)
+   defining Unicode char U+042B (decimal 1067)
+   defining Unicode char U+042C (decimal 1068)
+   defining Unicode char U+042D (decimal 1069)
+   defining Unicode char U+042E (decimal 1070)
+   defining Unicode char U+042F (decimal 1071)
+   defining Unicode char U+0430 (decimal 1072)
+   defining Unicode char U+0431 (decimal 1073)
+   defining Unicode char U+0432 (decimal 1074)
+   defining Unicode char U+0433 (decimal 1075)
+   defining Unicode char U+0434 (decimal 1076)
+   defining Unicode char U+0435 (decimal 1077)
+   defining Unicode char U+0436 (decimal 1078)
+   defining Unicode char U+0437 (decimal 1079)
+   defining Unicode char U+0438 (decimal 1080)
+   defining Unicode char U+0439 (decimal 1081)
+   defining Unicode char U+043A (decimal 1082)
+   defining Unicode char U+043B (decimal 1083)
+   defining Unicode char U+043C (decimal 1084)
+   defining Unicode char U+043D (decimal 1085)
+   defining Unicode char U+043E (decimal 1086)
+   defining Unicode char U+043F (decimal 1087)
+   defining Unicode char U+0440 (decimal 1088)
+   defining Unicode char U+0441 (decimal 1089)
+   defining Unicode char U+0442 (decimal 1090)
+   defining Unicode char U+0443 (decimal 1091)
+   defining Unicode char U+0444 (decimal 1092)
+   defining Unicode char U+0445 (decimal 1093)
+   defining Unicode char U+0446 (decimal 1094)
+   defining Unicode char U+0447 (decimal 1095)
+   defining Unicode char U+0448 (decimal 1096)
+   defining Unicode char U+0449 (decimal 1097)
+   defining Unicode char U+044A (decimal 1098)
+   defining Unicode char U+044B (decimal 1099)
+   defining Unicode char U+044C (decimal 1100)
+   defining Unicode char U+044D (decimal 1101)
+   defining Unicode char U+044E (decimal 1102)
+   defining Unicode char U+044F (decimal 1103)
+   defining Unicode char U+0450 (decimal 1104)
+   defining Unicode char U+0451 (decimal 1105)
+   defining Unicode char U+0452 (decimal 1106)
+   defining Unicode char U+0453 (decimal 1107)
+   defining Unicode char U+0454 (decimal 1108)
+   defining Unicode char U+0455 (decimal 1109)
+   defining Unicode char U+0456 (decimal 1110)
+   defining Unicode char U+0457 (decimal 1111)
+   defining Unicode char U+0458 (decimal 1112)
+   defining Unicode char U+0459 (decimal 1113)
+   defining Unicode char U+045A (decimal 1114)
+   defining Unicode char U+045B (decimal 1115)
+   defining Unicode char U+045C (decimal 1116)
+   defining Unicode char U+045D (decimal 1117)
+   defining Unicode char U+045E (decimal 1118)
+   defining Unicode char U+045F (decimal 1119)
+   defining Unicode char U+0490 (decimal 1168)
+   defining Unicode char U+0491 (decimal 1169)
+   defining Unicode char U+0492 (decimal 1170)
+   defining Unicode char U+0493 (decimal 1171)
+   defining Unicode char U+0496 (decimal 1174)
+   defining Unicode char U+0497 (decimal 1175)
+   defining Unicode char U+0498 (decimal 1176)
+   defining Unicode char U+0499 (decimal 1177)
+   defining Unicode char U+049A (decimal 1178)
+   defining Unicode char U+049B (decimal 1179)
+   defining Unicode char U+049C (decimal 1180)
+   defining Unicode char U+049D (decimal 1181)
+   defining Unicode char U+04A0 (decimal 1184)
+   defining Unicode char U+04A1 (decimal 1185)
+   defining Unicode char U+04A2 (decimal 1186)
+   defining Unicode char U+04A3 (decimal 1187)
+   defining Unicode char U+04A4 (decimal 1188)
+   defining Unicode char U+04A5 (decimal 1189)
+   defining Unicode char U+04AA (decimal 1194)
+   defining Unicode char U+04AB (decimal 1195)
+   defining Unicode char U+04AE (decimal 1198)
+   defining Unicode char U+04AF (decimal 1199)
+   defining Unicode char U+04B0 (decimal 1200)
+   defining Unicode char U+04B1 (decimal 1201)
+   defining Unicode char U+04B2 (decimal 1202)
+   defining Unicode char U+04B3 (decimal 1203)
+   defining Unicode char U+04B6 (decimal 1206)
+   defining Unicode char U+04B7 (decimal 1207)
+   defining Unicode char U+04B8 (decimal 1208)
+   defining Unicode char U+04B9 (decimal 1209)
+   defining Unicode char U+04BA (decimal 1210)
+   defining Unicode char U+04BB (decimal 1211)
+   defining Unicode char U+04C0 (decimal 1216)
+   defining Unicode char U+04C1 (decimal 1217)
+   defining Unicode char U+04C2 (decimal 1218)
+   defining Unicode char U+04D0 (decimal 1232)
+   defining Unicode char U+04D1 (decimal 1233)
+   defining Unicode char U+04D2 (decimal 1234)
+   defining Unicode char U+04D3 (decimal 1235)
+   defining Unicode char U+04D4 (decimal 1236)
+   defining Unicode char U+04D5 (decimal 1237)
+   defining Unicode char U+04D6 (decimal 1238)
+   defining Unicode char U+04D7 (decimal 1239)
+   defining Unicode char U+04D8 (decimal 1240)
+   defining Unicode char U+04D9 (decimal 1241)
+   defining Unicode char U+04DA (decimal 1242)
+   defining Unicode char U+04DB (decimal 1243)
+   defining Unicode char U+04DC (decimal 1244)
+   defining Unicode char U+04DD (decimal 1245)
+   defining Unicode char U+04DE (decimal 1246)
+   defining Unicode char U+04DF (decimal 1247)
+   defining Unicode char U+04E2 (decimal 1250)
+   defining Unicode char U+04E3 (decimal 1251)
+   defining Unicode char U+04E4 (decimal 1252)
+   defining Unicode char U+04E5 (decimal 1253)
+   defining Unicode char U+04E6 (decimal 1254)
+   defining Unicode char U+04E7 (decimal 1255)
+   defining Unicode char U+04E8 (decimal 1256)
+   defining Unicode char U+04E9 (decimal 1257)
+   defining Unicode char U+04EC (decimal 1260)
+   defining Unicode char U+04ED (decimal 1261)
+   defining Unicode char U+04EE (decimal 1262)
+   defining Unicode char U+04EF (decimal 1263)
+   defining Unicode char U+04F0 (decimal 1264)
+   defining Unicode char U+04F1 (decimal 1265)
+   defining Unicode char U+04F2 (decimal 1266)
+   defining Unicode char U+04F3 (decimal 1267)
+   defining Unicode char U+04F4 (decimal 1268)
+   defining Unicode char U+04F5 (decimal 1269)
+   defining Unicode char U+04F8 (decimal 1272)
+   defining Unicode char U+04F9 (decimal 1273)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2423 (decimal 9251)
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+\c@example=\count141
+\c@definition=\count142
+\c@fact=\count143
+ (./thesis.aux
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+)
+\openout1 = `thesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 28.
+LaTeX Font Info:    Try loading font information for T2A+cmr on input line 28.
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/cyrillic/t2acmr.fd
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
+LaTeX Font Info:    ... okay on input line 28.
+
+(/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count144
+\scratchdimen=\dimen170
+\scratchbox=\box50
+\nofMPsegments=\count145
+\nofMParguments=\count146
+\everyMPshowfont=\toks43
+\MPscratchCnt=\count147
+\MPscratchDim=\dimen171
+\MPnumerator=\count148
+\makeMPintoPDFobject=\count149
+\everyMPtoPDFconversion=\toks44
+) (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2016/05/10 v0.21 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.bdg
+File: UTF8.bdg 2015/04/18 4.8.4
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc
+File: UTF8.enc 2015/04/18 4.8.4
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr
+File: UTF8.chr 2015/04/18 4.8.4
+)
+ABD: EveryShipout initializing macros
+\AtBeginShipoutBox=\box51
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+))
+<page.pdf, id=4, 597.23125pt x 845.1575pt>
+File: page.pdf Graphic file (type pdf)
+ <use page.pdf>
+Package pdftex.def Info: page.pdf used on input line 35.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+File: page.pdf Graphic file (type pdf)
+ <use page.pdf>
+Package pdftex.def Info: page.pdf used on input line 35.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+
+<page.pdf, id=7, page=1, 597.23125pt x 845.1575pt>
+File: page.pdf Graphic file (type pdf)
+ <use page.pdf, page 1>
+Package pdftex.def Info: page.pdf, page1 used on input line 35.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+File: page.pdf Graphic file (type pdf)
+
+<use page.pdf, page 1>
+Package pdftex.def Info: page.pdf, page1 used on input line 35.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: page.pdf Graphic file (type pdf)
+ <use page.pdf, page 1>
+Package pdftex.def Info: page.pdf, page1 used on input line 35.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: page.pdf Graphic file (type pdf)
+ <use page.pdf, page 1>
+Package pdftex.def Info: page.pdf, page1 used on input line 35.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: page.pdf Graphic file (type pdf)
+
+<use page.pdf, page 1>
+Package pdftex.def Info: page.pdf, page1 used on input line 35.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [1
+
+ <./page.pdf>] [1{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdf
+tex.map}] [1] (./thesis.toc
+LaTeX Font Info:    Try loading font information for U+lasy on input line 2.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+))
+\tf@toc=\write4
+\openout4 = `thesis.toc'.
+
+
+(./section0101.tex [2
+
+]
+Chapter 1.
+<./pictures/0101.png, id=50, 926.46124pt x 449.68pt>
+File: ./pictures/0101.png Graphic file (type png)
+ <use ./pictures/0101.png>
+Package pdftex.def Info: ./pictures/0101.png used on input line 7.
+(pdftex.def)             Requested size: 350.0pt x 169.87839pt.
+
+<./pictures/0101-1.png, id=52, 787.94376pt x 530.98375pt>
+File: ./pictures/0101-1.png Graphic file (type png)
+
+<use ./pictures/0101-1.png>
+Package pdftex.def Info: ./pictures/0101-1.png used on input line 17.
+(pdftex.def)             Requested size: 400.0pt x 269.55038pt.
+
+Overfull \hbox (10.0pt too wide) in paragraph at lines 17--18
+ [][] 
+ []
+
+) (./section0102.tex [3
+
+ <./pictures/0101.png>]
+<./pictures/0102.png, id=58, 702.625pt x 254.9525pt>
+File: ./pictures/0102.png Graphic file (type png)
+ <use ./pictures/0102.png>
+Package pdftex.def Info: ./pictures/0102.png used on input line 6.
+(pdftex.def)             Requested size: 350.0pt x 127.0052pt.
+
+[4 <./pictures/0101-1.png>]
+LaTeX Font Info:    Try loading font information for C70+ipxm on input line 21.
+
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/ipaex-type1/c70ipxm.fd
+File: c70ipxm.fd 2013/10/11 v0.3b
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/ipaex-type1/c70ipxm.fdx
+File: c70ipxm.fdx 2013/10/11 v0.3b
+)
+LaTeX Font Info:    Font shape `C70/ipxm/bx/n'
+(Font)              in size <12> not available.
+(Font)              Font shape `C70/ipxm/m/n'
+(Font)              tried instead on input line 21.
+Package CJKpunct Info: punctuation spaces for family 'ipxm' do not exist. Use f
+amily 'def' instead. on input line 21.
+)
+(./section0103.tex
+Underfull \hbox (badness 10000) in paragraph at lines 17--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--1
+
+ []
+
+[5 <./pictures/0102.png>] [6]
+<./pictures/0103.png, id=199, 648.4225pt x 437.635pt>
+File: ./pictures/0103.png Graphic file (type png)
+
+<use ./pictures/0103.png>
+Package pdftex.def Info: ./pictures/0103.png used on input line 7.
+(pdftex.def)             Requested size: 300.0pt x 202.47647pt.
+ [7 <./pictures/0103.png>]) (./section0104.tex)
+(./section0105.tex
+Underfull \hbox (badness 10000) in paragraph at lines 2--1
+
+ []
+
+[8]) (./section0201.tex [9]
+Chapter 2.
+[10
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 16--20
+
+ []
+
+[11]) (./section0202.tex
+<./pictures/0202.png, id=223, 390.45876pt x 90.3375pt>
+File: ./pictures/0202.png Graphic file (type png)
+
+<use ./pictures/0202.png>
+Package pdftex.def Info: ./pictures/0202.png used on input line 6.
+(pdftex.def)             Requested size: 250.0pt x 57.84059pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
+
+ []
+
+[13 <./pictures/0202.png>]
+<./pictures/0202-1.png, id=237, 809.0225pt x 357.335pt>
+File: ./pictures/0202-1.png Graphic file (type png)
+
+<use ./pictures/0202-1.png>
+Package pdftex.def Info: ./pictures/0202-1.png used on input line 31.
+(pdftex.def)             Requested size: 350.0pt x 154.59433pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--37
+
+ []
+
+[14 <./pictures/0202-1.png>]) (./section0203.tex [15]
+Underfull \hbox (badness 10000) in paragraph at lines 17--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--21
+
+ []
+
+<./pictures/0203.png, id=247, 404.51125pt x 341.275pt>
+File: ./pictures/0203.png Graphic file (type png)
+
+<use ./pictures/0203.png>
+Package pdftex.def Info: ./pictures/0203.png used on input line 27.
+(pdftex.def)             Requested size: 250.0pt x 210.92175pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--33
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--33
+
+ []
+
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 55--59
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--59
+
+ []
+
+[17 <./pictures/0203.png>]
+<./pictures/0203-1.png, id=261, 474.77374pt x 366.36874pt>
+File: ./pictures/0203-1.png Graphic file (type png)
+
+<use ./pictures/0203-1.png>
+Package pdftex.def Info: ./pictures/0203-1.png used on input line 67.
+(pdftex.def)             Requested size: 250.0pt x 192.91667pt.
+) (./section0204.tex
+Underfull \hbox (badness 10000) in paragraph at lines 2--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--11
+
+ []
+
+[18 <./pictures/0203-1.png>] [19] [20]
+Underfull \hbox (badness 10000) in paragraph at lines 32--35
+
+ []
+
+[21] <./pictures/0204.png, id=275, 518.93875pt x 612.2875pt>
+File: ./pictures/0204.png Graphic file (type png)
+
+<use ./pictures/0204.png>
+Package pdftex.def Info: ./pictures/0204.png used on input line 39.
+(pdftex.def)             Requested size: 400.0pt x 471.97668pt.
+
+Overfull \hbox (10.0pt too wide) in paragraph at lines 39--40
+ [][] 
+ []
+
+[22 <./pictures/0204.png>]
+<./pictures/0204-1.png, id=280, 788.9475pt x 323.2075pt>
+File: ./pictures/0204-1.png Graphic file (type png)
+
+<use ./pictures/0204-1.png>
+Package pdftex.def Info: ./pictures/0204-1.png used on input line 46.
+(pdftex.def)             Requested size: 350.0pt x 143.38548pt.
+) (./section0205.tex
+Underfull \hbox (badness 10000) in paragraph at lines 2--8
+
+ []
+
+[23 <./pictures/0204-1.png>]) (./section0301.tex [24]
+Chapter 3.
+<./pictures/0301.png, id=289, 516.93124pt x 395.4775pt>
+File: ./pictures/0301.png Graphic file (type png)
+
+<use ./pictures/0301.png>
+Package pdftex.def Info: ./pictures/0301.png used on input line 6.
+(pdftex.def)             Requested size: 250.0pt x 191.26324pt.
+) (./section0302.tex [25
+
+ <./pictures/0301.png>]
+Overfull \hbox (3.7622pt too wide) in paragraph at lines 13--14
+[]\T1/cmr/bx/n/12 Definition 3.2.2. []$\OML/cmm/m/it/12 D[]$ \T1/cmr/m/it/12 is
+ a set of events. and $\OML/cmm/m/it/12 const\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 
+D[]\OT1/cmr/m/n/12 )$ \T1/cmr/m/it/12 is a set of const(nouns)
+ []
+
+[26]) (./section0303.tex [27]
+<./pictures/0303.png, id=301, 347.2975pt x 289.08pt>
+File: ./pictures/0303.png Graphic file (type png)
+ <use ./pictures/0303.png>
+Package pdftex.def Info: ./pictures/0303.png used on input line 19.
+(pdftex.def)             Requested size: 250.0pt x 208.09773pt.
+
+[28 <./pictures/0303.png>]
+<./pictures/0303-1.png, id=306, 403.5075pt x 301.125pt>
+File: ./pictures/0303-1.png Graphic file (type png)
+
+<use ./pictures/0303-1.png>
+Package pdftex.def Info: ./pictures/0303-1.png used on input line 51.
+(pdftex.def)             Requested size: 250.0pt x 186.56691pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--55
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--55
+
+ []
+
+[29 <./pictures/0303-1.png>]
+<./pictures/0303-2.png, id=312, 364.36125pt x 262.9825pt>
+File: ./pictures/0303-2.png Graphic file (type png)
+
+<use ./pictures/0303-2.png>
+Package pdftex.def Info: ./pictures/0303-2.png used on input line 66.
+(pdftex.def)             Requested size: 250.0pt x 180.43886pt.
+
+<./pictures/0303-3.png, id=313, 486.81876pt x 274.02374pt>
+File: ./pictures/0303-3.png Graphic file (type png)
+
+<use ./pictures/0303-3.png>
+Package pdftex.def Info: ./pictures/0303-3.png used on input line 86.
+(pdftex.def)             Requested size: 250.0pt x 140.7203pt.
+) (./section0304.tex
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[30 <./pictures/0303-2.png>]) (./section0305.tex
+<./pictures/0305.png, id=320, 346.29375pt x 270.00874pt>
+File: ./pictures/0305.png Graphic file (type png)
+
+<use ./pictures/0305.png>
+Package pdftex.def Info: ./pictures/0305.png used on input line 6.
+(pdftex.def)             Requested size: 250.0pt x 194.93349pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[31 <./pictures/0303-3.png>] [32 <./pictures/0305.png>]
+<./pictures/0305-0.png, id=329, 617.30624pt x 384.43625pt>
+File: ./pictures/0305-0.png Graphic file (type png)
+
+<use ./pictures/0305-0.png>
+Package pdftex.def Info: ./pictures/0305-0.png used on input line 43.
+(pdftex.def)             Requested size: 300.0pt x 186.83264pt.
+
+<./pictures/0305-1.png, id=330, 387.4475pt x 132.495pt>
+File: ./pictures/0305-1.png Graphic file (type png)
+
+<use ./pictures/0305-1.png>
+Package pdftex.def Info: ./pictures/0305-1.png used on input line 49.
+(pdftex.def)             Requested size: 250.0pt x 85.49399pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[33 <./pictures/0305-0.png>]) (./section0306.tex
+<./pictures/0306.png, id=335, 486.81876pt x 490.83376pt>
+File: ./pictures/0306.png Graphic file (type png)
+
+<use ./pictures/0306.png>
+Package pdftex.def Info: ./pictures/0306.png used on input line 4.
+(pdftex.def)             Requested size: 250.0pt x 252.05946pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./pictures/0306-1.png, id=336, 569.12625pt x 168.63pt>
+File: ./pictures/0306-1.png Graphic file (type png)
+
+<use ./pictures/0306-1.png>
+Package pdftex.def Info: ./pictures/0306-1.png used on input line 15.
+(pdftex.def)             Requested size: 300.0pt x 88.8923pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--21
+
+ []
+
+[34 <./pictures/0305-1.png>] [35 <./pictures/0306.png> <./pictures/0306-1.png>]
+<./pictures/0306-2.png, id=347, 547.04375pt x 569.12625pt>
+File: ./pictures/0306-2.png Graphic file (type png)
+
+<use ./pictures/0306-2.png>
+Package pdftex.def Info: ./pictures/0306-2.png used on input line 44.
+(pdftex.def)             Requested size: 250.0pt x 260.09047pt.
+) (./section0401.tex
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[36] [37 <./pictures/0306-2.png>]
+Chapter 4.
+
+LaTeX Warning: The counter will not be printed.
+             The label is: * on input line 11.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--11
+
+ []
+
+
+LaTeX Warning: The counter will not be printed.
+             The label is: * on input line 17.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
+
+ []
+
+
+LaTeX Warning: The counter will not be printed.
+             The label is: * on input line 22.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--22
+
+ []
+
+[38
+
+]
+
+LaTeX Warning: The counter will not be printed.
+             The label is: * on input line 28.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--28
+
+ []
+
+
+LaTeX Warning: The counter will not be printed.
+             The label is: * on input line 34.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
+
+ []
+
+) (./section0402.tex
+Underfull \hbox (badness 10000) in paragraph at lines 39--1
+
+ []
+
+
+Overfull \hbox (5.24141pt too wide) in paragraph at lines 7--15
+ [][] 
+ []
+
+<./pictures/0402-0.png, id=360, 596.2275pt x 437.635pt>
+File: ./pictures/0402-0.png Graphic file (type png)
+
+<use ./pictures/0402-0.png>
+Package pdftex.def Info: ./pictures/0402-0.png used on input line 21.
+(pdftex.def)             Requested size: 300.0pt x 220.19925pt.
+) (./section0403.tex
+Underfull \hbox (badness 10000) in paragraph at lines 2--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--1
+
+ []
+
+[39] <./pictures/0403-0.png, id=367, 491.8375pt x 395.4775pt>
+File: ./pictures/0403-0.png Graphic file (type png)
+
+<use ./pictures/0403-0.png>
+Package pdftex.def Info: ./pictures/0403-0.png used on input line 29.
+(pdftex.def)             Requested size: 250.0pt x 201.02103pt.
+
+
+LaTeX Warning: The counter will not be printed.
+             The label is: * on input line 37.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--37
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--37
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--37
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--37
+
+ []
+
+[40 <./pictures/0402-0.png>] [41 <./pictures/0403-0.png>] [42]
+Underfull \hbox (badness 10000) in paragraph at lines 59--75
+
+ []
+
+
+Overfull \hbox (2.06691pt too wide) in paragraph at lines 88--89
+[]\T1/cmr/m/n/12 [\C70/ipxm/m/n/12 Y ã\T1/cmr/m/n/12 /\C70/ipxm/m/n/12 ¨\T1/cmr
+/m/n/12 , \C70/ipxm/m/n/12 Y ã\T1/cmr/m/n/12 /\C70/ipxm/m/n/12 À\T1/cmr/m/n/12 
+, \C70/ipxm/m/n/12 Y ã\T1/cmr/m/n/12 /\C70/ipxm/m/n/12 Ú\T1/cmr/m/n/12 , \C70/i
+pxm/m/n/12/67 	 \C70/ipxm/m/n/12 ã\T1/cmr/m/n/12 /\C70/ipxm/m/n/12 ¨\T1/cmr/m/n
+/12 , \C70/ipxm/m/n/12/89 Å \C70/ipxm/m/n/12/6c B\T1/cmr/m/n/12 /\C70/ipxm/m/n/
+12 ¨\T1/cmr/m/n/12 , \C70/ipxm/m/n/12/8c † \C70/ipxm/m/n/12 F\T1/cmr/m/n/12 /\C
+70/ipxm/m/n/12 ¨\T1/cmr/m/n/12 ] [\C70/ipxm/m/n/12/56 ˝\T1/cmr/m/n/12 068, \C70
+/ipxm/m/n/12/58 Î\T1/cmr/m/n/12 092,
+ []
+
+[43] [44]
+Overfull \hbox (2.06691pt too wide) in paragraph at lines 106--107
+[]\T1/cmr/m/n/12 [\C70/ipxm/m/n/12 Y ã\T1/cmr/m/n/12 /\C70/ipxm/m/n/12 ¨\T1/cmr
+/m/n/12 , \C70/ipxm/m/n/12 Y ã\T1/cmr/m/n/12 /\C70/ipxm/m/n/12 »\T1/cmr/m/n/12 
+, \C70/ipxm/m/n/12 Y ã\T1/cmr/m/n/12 /\C70/ipxm/m/n/12 Ú\T1/cmr/m/n/12 , \C70/i
+pxm/m/n/12/54 + \C70/ipxm/m/n/12 Ä\T1/cmr/m/n/12 /\C70/ipxm/m/n/12 ¨\T1/cmr/m/n
+/12 , \C70/ipxm/m/n/12/62 ^^P \C70/ipxm/m/n/12 ã\T1/cmr/m/n/12 /\C70/ipxm/m/n/1
+2 ¨\T1/cmr/m/n/12 , \C70/ipxm/m/n/12/67 	 \C70/ipxm/m/n/12 ã\T1/cmr/m/n/12 /\C7
+0/ipxm/m/n/12 ¨\T1/cmr/m/n/12 ] [\C70/ipxm/m/n/12/4e ∫\T1/cmr/m/n/12 068, \C70/
+ipxm/m/n/12/51 Ü\T1/cmr/m/n/12 085,
+ []
+
+
+Overfull \hbox (1.80586pt too wide) in paragraph at lines 116--117
+[]\T1/cmr/m/n/12 [\C70/ipxm/m/n/12 Y ã\T1/cmr/m/n/12 /\C70/ipxm/m/n/12 ¨\T1/cmr
+/m/n/12 , \C70/ipxm/m/n/12 Y ã\T1/cmr/m/n/12 /\C70/ipxm/m/n/12 »\T1/cmr/m/n/12 
+, \C70/ipxm/m/n/12 Y ã\T1/cmr/m/n/12 /\C70/ipxm/m/n/12 À\T1/cmr/m/n/12 , \C70/i
+pxm/m/n/12/62 ^^P \C70/ipxm/m/n/12 ã\T1/cmr/m/n/12 /\C70/ipxm/m/n/12 ¨\T1/cmr/m
+/n/12 , \C70/ipxm/m/n/12/67 	 \C70/ipxm/m/n/12 ã\T1/cmr/m/n/12 /\C70/ipxm/m/n/1
+2 ¨\T1/cmr/m/n/12 , \C70/ipxm/m/n/12/8a ^^@ \C70/ipxm/m/n/12 F\T1/cmr/m/n/12 /\
+C70/ipxm/m/n/12 ¨\T1/cmr/m/n/12 ] [\C70/ipxm/m/n/12/53 ˜\T1/cmr/m/n/12 085, \C7
+0/ipxm/m/n/12/80 ^^E\T1/cmr/m/n/12 068,
+ []
+
+[45]
+Overfull \hbox (1.55988pt too wide) in paragraph at lines 122--123
+[]\T1/cmr/m/n/12 [\C70/ipxm/m/n/12 Y ã\T1/cmr/m/n/12 /\C70/ipxm/m/n/12 ¨\T1/cmr
+/m/n/12 , \C70/ipxm/m/n/12 Y ã\T1/cmr/m/n/12 /\C70/ipxm/m/n/12 À\T1/cmr/m/n/12 
+, \C70/ipxm/m/n/12/54 + \C70/ipxm/m/n/12 Ä\T1/cmr/m/n/12 /\C70/ipxm/m/n/12 ¨\T1
+/cmr/m/n/12 , \C70/ipxm/m/n/12/88 L \C70/ipxm/m/n/12 F\T1/cmr/m/n/12 /\C70/ipxm
+/m/n/12 À\T1/cmr/m/n/12 ] [\C70/ipxm/m/n/12/66 ¯\T1/cmr/m/n/12 085, \C70/ipxm/m
+/n/12/69 m \C70/ipxm/m/n/12/52 Ÿ\T1/cmr/m/n/12 069, \C70/ipxm/m/n/12/53 ü \C70/
+ipxm/m/n/12/54 J\T1/cmr/m/n/12 092, \C70/ipxm/m/n/12/80 ^^E\T1/cmr/m/n/12 068] 
+
+ []
+
+
+Overfull \hbox (1.55988pt too wide) in paragraph at lines 124--125
+[]\T1/cmr/m/n/12 [\C70/ipxm/m/n/12 Y ã\T1/cmr/m/n/12 /\C70/ipxm/m/n/12 ¨\T1/cmr
+/m/n/12 , \C70/ipxm/m/n/12/63 – \C70/ipxm/m/n/12/51 ˙\T1/cmr/m/n/12 /\C70/ipxm/
+m/n/12 ¨\T1/cmr/m/n/12 , \C70/ipxm/m/n/12/88 L \C70/ipxm/m/n/12 F\T1/cmr/m/n/12
+ /\C70/ipxm/m/n/12 À\T1/cmr/m/n/12 , \C70/ipxm/m/n/12/8a ç \C70/ipxm/m/n/12 Å ã
+\T1/cmr/m/n/12 /\C70/ipxm/m/n/12 À\T1/cmr/m/n/12 ] [\C70/ipxm/m/n/12/66 ¯\T1/cm
+r/m/n/12 085, \C70/ipxm/m/n/12/58 Î\T1/cmr/m/n/12 092, \C70/ipxm/m/n/12/88 ´ \C
+70/ipxm/m/n/12/54 J\T1/cmr/m/n/12 069, \C70/ipxm/m/n/12/80 ^^E\T1/cmr/m/n/12 06
+8] 
+ []
+
+<./pictures/0403-1.png, id=389, 517.935pt x 183.68625pt>
+File: ./pictures/0403-1.png Graphic file (type png)
+
+<use ./pictures/0403-1.png>
+Package pdftex.def Info: ./pictures/0403-1.png used on input line 130.
+(pdftex.def)             Requested size: 250.0pt x 88.66447pt.
+ [46 <./pictures/0403-1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 134--150
+
+ []
+
+[47] <./pictures/0403-2.png, id=398, 385.44pt x 552.0625pt>
+File: ./pictures/0403-2.png Graphic file (type png)
+
+<use ./pictures/0403-2.png>
+Package pdftex.def Info: ./pictures/0403-2.png used on input line 174.
+(pdftex.def)             Requested size: 250.0pt x 358.0698pt.
+ [48 <./pictures/0403-2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 178--194
+
+ []
+
+
+Overfull \hbox (1.54352pt too wide) in paragraph at lines 195--196
+[]\T1/cmr/m/n/12 [\C70/ipxm/m/n/12 Y ã\T1/cmr/m/n/12 /\C70/ipxm/m/n/12 Ú\T1/cmr
+/m/n/12 , \C70/ipxm/m/n/12/53 ÷ \C70/ipxm/m/n/12 ã\T1/cmr/m/n/12 /\C70/ipxm/m/n
+/12 À\T1/cmr/m/n/12 , \C70/ipxm/m/n/12/66 ¯ \C70/ipxm/m/n/12 O\T1/cmr/m/n/12 /\
+C70/ipxm/m/n/12 À\T1/cmr/m/n/12 , \C70/ipxm/m/n/12/67 	 \C70/ipxm/m/n/12 ã\T1/c
+mr/m/n/12 /\C70/ipxm/m/n/12 ¨\T1/cmr/m/n/12 , \C70/ipxm/m/n/12/8a - \C70/ipxm/m
+/n/12/7f n\T1/cmr/m/n/12 /\C70/ipxm/m/n/12 À\T1/cmr/m/n/12 , \C70/ipxm/m/n/12/9
+0 # \C70/ipxm/m/n/12/7d a\T1/cmr/m/n/12 /\C70/ipxm/m/n/12 À\T1/cmr/m/n/12 ] [\C
+70/ipxm/m/n/12/99 ≈\T1/cmr/m/n/12 092, \C70/ipxm/m/n/12/77 ^^A\T1/cmr/m/n/12 06
+8] 
+ []
+
+
+Overfull \hbox (1.80457pt too wide) in paragraph at lines 197--198
+[]\T1/cmr/m/n/12 [\C70/ipxm/m/n/12 Y ã\T1/cmr/m/n/12 /\C70/ipxm/m/n/12 À\T1/cmr
+/m/n/12 , \C70/ipxm/m/n/12 Y ã\T1/cmr/m/n/12 /\C70/ipxm/m/n/12 Ú\T1/cmr/m/n/12 
+, \C70/ipxm/m/n/12/62 ^^P \C70/ipxm/m/n/12 ã\T1/cmr/m/n/12 /\C70/ipxm/m/n/12 ¨\
+T1/cmr/m/n/12 , \C70/ipxm/m/n/12/67 	 \C70/ipxm/m/n/12 ã\T1/cmr/m/n/12 /\C70/ip
+xm/m/n/12 ¨\T1/cmr/m/n/12 , \C70/ipxm/m/n/12/67 	 \C70/ipxm/m/n/12 ã\T1/cmr/m/n
+/12 /\C70/ipxm/m/n/12 À\T1/cmr/m/n/12 , \C70/ipxm/m/n/12/88 L \C70/ipxm/m/n/12 
+F\T1/cmr/m/n/12 /\C70/ipxm/m/n/12 «\T1/cmr/m/n/12 ] [\C70/ipxm/m/n/12/99 ≈\T1/c
+mr/m/n/12 092, \C70/ipxm/m/n/12/56 ˝\T1/cmr/m/n/12 068] 
+ []
+
+[49]
+Overfull \hbox (1.27559pt too wide) in paragraph at lines 214--215
+[]\T1/cmr/m/n/12 [\C70/ipxm/m/n/12 Y ã\T1/cmr/m/n/12 /\C70/ipxm/m/n/12 À\T1/cmr
+/m/n/12 , \C70/ipxm/m/n/12/51 ˙ \C70/ipxm/m/n/12/67 e \C70/ipxm/m/n/12 ã\T1/cmr
+/m/n/12 /\C70/ipxm/m/n/12 À\T1/cmr/m/n/12 , \C70/ipxm/m/n/12/5c E \C70/ipxm/m/n
+/12 ã\T1/cmr/m/n/12 /\C70/ipxm/m/n/12 À\T1/cmr/m/n/12 , \C70/ipxm/m/n/12/88 L \
+C70/ipxm/m/n/12 F\T1/cmr/m/n/12 /\C70/ipxm/m/n/12 À\T1/cmr/m/n/12 , \C70/ipxm/m
+/n/12/8a - \C70/ipxm/m/n/12/7f n\T1/cmr/m/n/12 /\C70/ipxm/m/n/12 Ú\T1/cmr/m/n/1
+2 ] [\C70/ipxm/m/n/12 ª Û ø ¸\T1/cmr/m/n/12 068, \C70/ipxm/m/n/12/58 4\T1/cmr/m
+/n/12 092] 
+ []
+
+[50] [51] [52] [53]
+Overfull \hbox (1.80586pt too wide) in paragraph at lines 277--278
+[]\T1/cmr/m/n/12 [\C70/ipxm/m/n/12 Y ã\T1/cmr/m/n/12 /\C70/ipxm/m/n/12 ¨\T1/cmr
+/m/n/12 , \C70/ipxm/m/n/12 Y ã\T1/cmr/m/n/12 /\C70/ipxm/m/n/12 Ú\T1/cmr/m/n/12 
+, \C70/ipxm/m/n/12/62 ^^P \C70/ipxm/m/n/12 ã\T1/cmr/m/n/12 /\C70/ipxm/m/n/12 À\
+T1/cmr/m/n/12 , \C70/ipxm/m/n/12/67 	 \C70/ipxm/m/n/12 ã\T1/cmr/m/n/12 /\C70/ip
+xm/m/n/12 ¨\T1/cmr/m/n/12 , \C70/ipxm/m/n/12/88 L \C70/ipxm/m/n/12 F\T1/cmr/m/n
+/12 /\C70/ipxm/m/n/12 À\T1/cmr/m/n/12 , \C70/ipxm/m/n/12/89 è \C70/ipxm/m/n/12/
+5b ö\T1/cmr/m/n/12 /\C70/ipxm/m/n/12 ¨\T1/cmr/m/n/12 ] [\C70/ipxm/m/n/12/67 a\T
+1/cmr/m/n/12 092, \C70/ipxm/m/n/12/4e ∫\T1/cmr/m/n/12 068] 
+ []
+
+[54] [55] <./pictures/0403-3.png, id=429, 411.5375pt x 470.75874pt>
+File: ./pictures/0403-3.png Graphic file (type png)
+
+<use ./pictures/0403-3.png>
+Package pdftex.def Info: ./pictures/0403-3.png used on input line 312.
+(pdftex.def)             Requested size: 250.0pt x 285.97719pt.
+) (./section0404.tex [56 <./pictures/0403-3.png>])
+(./section0501.tex [57]
+Chapter 5.
+) (./section0502.tex) [58
+
+] [59] (./ref.tex [60]
+Underfull \hbox (badness 5607) in paragraph at lines 12--13
+[]\C70/ipxm/m/n/12/52 $ \C70/ipxm/m/n/12/4f ã \C70/ipxm/m/n/12 « ¸ ø ¸ Ÿ ¸ π \C
+70/ipxm/m/n/12/7b , \C70/ipxm/m/n/12/4e ^^@ \C70/ipxm/m/n/12/6c ’ \C70/ipxm/m/n
+/12/89 è \C70/ipxm/m/n/12/68 * \C70/ipxm/m/n/12/5f ^^O \C70/ipxm/m/n/12/4f ^^Z 
+\C70/ipxm/m/n/12/79 > |\C70/ipxm/m/n/12 ^^N|\T1/cmr/m/n/12 D1-law.com|\C70/ipxm
+/m/n/12 ^^O| \T1/cmr/m/n/12 ,
+ []
+
+LaTeX Font Info:    Font shape `C70/mc/m/n' will be
+(Font)              scaled to size 12.0pt on input line 30.
+[61
+
+]) [62] (./thesis.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ )
+(\end occurred inside a group at level 1)
+
+### simple group (level 1) entered at line 1061 ({)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 19080 strings out of 493014
+ 341814 string characters out of 6133351
+ 394916 words of memory out of 5000000
+ 21951 multiletter control sequences out of 15000+600000
+ 33006 words of font info for 112 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,18n,54p,1139b,4341s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/cm-super/cm
+-super-t1.enc}</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmex10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmmi12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmmi6.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+mi8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
+2.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.p
+fb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb>
+</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
+/usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></u
+sr/local/texlive/2016/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u30.pfb>
+</usr/local/texlive/2016/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u4e.p
+fb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u4
+f.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r
+-u50.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/ipaex-type1/ipx
+m-r-u51.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/ipaex-type1/
+ipxm-r-u52.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/ipaex-typ
+e1/ipxm-r-u53.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/ipaex-
+type1/ipxm-r-u54.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/ipa
+ex-type1/ipxm-r-u55.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/
+ipaex-type1/ipxm-r-u56.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/publ
+ic/ipaex-type1/ipxm-r-u57.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/p
+ublic/ipaex-type1/ipxm-r-u58.pfb></usr/local/texlive/2016/texmf-dist/fonts/type
+1/public/ipaex-type1/ipxm-r-u59.pfb></usr/local/texlive/2016/texmf-dist/fonts/t
+ype1/public/ipaex-type1/ipxm-r-u5a.pfb></usr/local/texlive/2016/texmf-dist/font
+s/type1/public/ipaex-type1/ipxm-r-u5b.pfb></usr/local/texlive/2016/texmf-dist/f
+onts/type1/public/ipaex-type1/ipxm-r-u5c.pfb></usr/local/texlive/2016/texmf-dis
+t/fonts/type1/public/ipaex-type1/ipxm-r-u5d.pfb></usr/local/texlive/2016/texmf-
+dist/fonts/type1/public/ipaex-type1/ipxm-r-u5e.pfb></usr/local/texlive/2016/tex
+mf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u5f.pfb></usr/local/texlive/2016/
+texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u60.pfb></usr/local/texlive/20
+16/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u61.pfb></usr/local/texlive
+/2016/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u62.pfb></usr/local/texl
+ive/2016/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u63.pfb></usr/local/t
+exlive/2016/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u64.pfb></usr/loca
+l/texlive/2016/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u65.pfb></usr/l
+ocal/texlive/2016/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u66.pfb></us
+r/local/texlive/2016/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u67.pfb><
+/usr/local/texlive/2016/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u68.pf
+b></usr/local/texlive/2016/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u69
+.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-
+u6a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/ipaex-type1/ipxm
+-r-u6b.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/ipaex-type1/i
+pxm-r-u6c.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/ipaex-type
+1/ipxm-r-u6d.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/ipaex-t
+ype1/ipxm-r-u6e.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/ipae
+x-type1/ipxm-r-u70.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/i
+paex-type1/ipxm-r-u71.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/publi
+c/ipaex-type1/ipxm-r-u72.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/pu
+blic/ipaex-type1/ipxm-r-u73.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1
+/public/ipaex-type1/ipxm-r-u75.pfb></usr/local/texlive/2016/texmf-dist/fonts/ty
+pe1/public/ipaex-type1/ipxm-r-u76.pfb></usr/local/texlive/2016/texmf-dist/fonts
+/type1/public/ipaex-type1/ipxm-r-u77.pfb></usr/local/texlive/2016/texmf-dist/fo
+nts/type1/public/ipaex-type1/ipxm-r-u78.pfb></usr/local/texlive/2016/texmf-dist
+/fonts/type1/public/ipaex-type1/ipxm-r-u79.pfb></usr/local/texlive/2016/texmf-d
+ist/fonts/type1/public/ipaex-type1/ipxm-r-u7a.pfb></usr/local/texlive/2016/texm
+f-dist/fonts/type1/public/ipaex-type1/ipxm-r-u7b.pfb></usr/local/texlive/2016/t
+exmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u7d.pfb></usr/local/texlive/201
+6/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u7e.pfb></usr/local/texlive/
+2016/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u7f.pfb></usr/local/texli
+ve/2016/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u80.pfb></usr/local/te
+xlive/2016/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u81.pfb></usr/local
+/texlive/2016/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u82.pfb></usr/lo
+cal/texlive/2016/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u83.pfb></usr
+/local/texlive/2016/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u85.pfb></
+usr/local/texlive/2016/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u88.pfb
+></usr/local/texlive/2016/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u89.
+pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u
+8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-
+r-u8b.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/ipaex-type1/ip
+xm-r-u8c.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/ipaex-type1
+/ipxm-r-u8d.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/ipaex-ty
+pe1/ipxm-r-u8e.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/ipaex
+-type1/ipxm-r-u8f.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/ip
+aex-type1/ipxm-r-u90.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public
+/ipaex-type1/ipxm-r-u91.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/pub
+lic/ipaex-type1/ipxm-r-u92.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/
+public/ipaex-type1/ipxm-r-u93.pfb></usr/local/texlive/2016/texmf-dist/fonts/typ
+e1/public/ipaex-type1/ipxm-r-u95.pfb></usr/local/texlive/2016/texmf-dist/fonts/
+type1/public/ipaex-type1/ipxm-r-u96.pfb></usr/local/texlive/2016/texmf-dist/fon
+ts/type1/public/ipaex-type1/ipxm-r-u97.pfb></usr/local/texlive/2016/texmf-dist/
+fonts/type1/public/ipaex-type1/ipxm-r-u98.pfb></usr/local/texlive/2016/texmf-di
+st/fonts/type1/public/ipaex-type1/ipxm-r-u99.pfb></usr/local/texlive/2016/texmf
+-dist/fonts/type1/public/ipaex-type1/ipxm-r-u9a.pfb></usr/local/texlive/2016/te
+xmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u9c.pfb></usr/local/texlive/2016
+/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u9d.pfb></usr/local/texlive/2
+016/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u9e.pfb></usr/local/texliv
+e/2016/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-uff.pfb></usr/local/tex
+live/2016/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texli
+ve/2016/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive
+/2016/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2
+016/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/201
+6/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2016/
+texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
+Output written on thesis.pdf (64 pages, 1950808 bytes).
+PDF statistics:
+ 734 PDF objects out of 1000 (max. 8388607)
+ 437 compressed objects within 5 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 463 words of extra memory for PDF output out of 10000 (max. 10000000)
+
